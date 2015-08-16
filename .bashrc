@@ -1,9 +1,3 @@
-# directory switches
-alias repos='cd ~/../../develop/repos/'
-alias slc='cd ~/../../develop/repos/swisslos_isp/'
-alias slt='cd ~/../../develop/repos/swisslos_isp/isp-portal/templates/web'
-alias dev='cd /c/dev'
-
 # helpers
 alias ll='ls -al'
 alias l='ls -al'
